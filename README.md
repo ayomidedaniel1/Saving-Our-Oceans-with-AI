@@ -31,6 +31,7 @@ Three processes were
 1. Data Annotation 
 ![Data Annotation](https://drive.google.com/uc?export=view&id=1i8PCg9SoP7aliPjgzsH9tAIKdg0mXggY)
 Mask ![Mask.](https://drive.google.com/uc?export=view&id=1Ru7kXZPYpWbvp6ca8skKNDaKdLDeoiiB)
+![Mask](https://drive.google.com/uc?export=view&id=1XRk7oLx1cx0fVQohbbIQ_RDvFCctzP26) 
 
 2. UNet Model Architecture. 
 
@@ -38,8 +39,8 @@ Mask ![Mask.](https://drive.google.com/uc?export=view&id=1Ru7kXZPYpWbvp6ca8skKND
 This model architecture was used to build the AI model. U-Net is  a convolutional neural network architecture for semantic segmentation that expanded with few changes in the CNN architecture. Looks like a U, from the name though!
 
 3. Results
-![Results](https://drive.google.com/uc?export=view&id=1YfNeLlxHEQdWbS0V6ySx91j0GLsUJ9bL)
-![Results](https://drive.google.com/uc?export=view&id=1NHqHfwbiHhEdJ_rsdqfaRubSWR-3Jn_L)
+![Results](https://drive.google.com/uc?export=view&id=1XRk7oLx1cx0fVQohbbIQ_RDvFCctzP26) 
+![Results](https://drive.google.com/uc?export=view&id=1Y1YJT5hTS62r4Pjju6m8-DI2TOLsQH8d)
 
 ## Impact of Our solution
 
